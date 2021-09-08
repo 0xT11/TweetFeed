@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 13:35:52 (UTC)</th>
+		<th colspan=4>2021-09-08 13:36:55 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -231,7 +231,7 @@ TweetFeed
 ```kusto
 let MaxAge = ago(30d);
 let domain_whitelist = pack_array(
-'XXX', // Some URL/Domain you want to whitelist.
+'XXX' // Some URL/Domain you want to whitelist.
 );
 let TweetFeed = materialize (
     (externaldata(report:string)
