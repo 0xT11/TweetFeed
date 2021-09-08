@@ -689,3 +689,7 @@
 2021-09-08 14:05:46,secbird1,url,https://nttdocomo.jp.pyc596.com/login.php,#phishing,https://twitter.com/secbird1/status/1435605284089593859
 2021-09-08 14:05:46,secbird1,ip,155.94.182.218,#phishing,https://twitter.com/secbird1/status/1435605284089593859
 2021-09-08 14:07:32,ecarlesi,url,https://tin1url.com,#phishing,https://twitter.com/ecarlesi/status/1435605726844661761
+2021-09-08 14:15:20,RedBeardIOCs,sha256,3602f615ba8e5fae9c7b31dbe5961c35795400f3c4167e5e9690fc95d8337921,#Dridex,https://twitter.com/RedBeardIOCs/status/1435607690433159171
+2021-09-08 14:15:20,RedBeardIOCs,sha256,02416ebdc7bd9c7de3a05eae41d6b111730895422fd9e56a9740b040d357b419,#Dridex,https://twitter.com/RedBeardIOCs/status/1435607690433159171
+2021-09-08 14:15:20,RedBeardIOCs,sha256,3718d792a108eb78734d9ebcdc50c8ddddb9f0faf127c68ee8ab825ec0b92656,#Dridex,https://twitter.com/RedBeardIOCs/status/1435607690433159171
+2021-09-08 14:15:20,RedBeardIOCs,sha256,aafb402a6d895475442825c9ebf0f92220ce5a4818874cd1c9fcca482a5854b8,#Dridex,https://twitter.com/RedBeardIOCs/status/1435607690433159171
