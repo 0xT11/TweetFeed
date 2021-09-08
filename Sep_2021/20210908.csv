@@ -777,3 +777,5 @@
 2021-09-08 16:07:03,phishunt_io,url,https://perfiles.googie.com.ayuda-es.com/,#phishing #scam,https://twitter.com/phishunt_io/status/1435635804576026625
 2021-09-08 16:07:03,phishunt_io,ip,109.106.250.225,#phishing #scam,https://twitter.com/phishunt_io/status/1435635804576026625
 2021-09-08 16:12:20,bad_packets,ip,61.224.69.108,#ProxyShell,https://twitter.com/bad_packets/status/1435637136833740800
+2021-09-08 16:15:02,HeliosCert,ip,36.81.254.103,#malware,https://twitter.com/HeliosCert/status/1435637814125899782
+2021-09-08 16:15:02,HeliosCert,sha256,41d8f35da6d8107b6a6b28e3bb5bb2c377375ea9bb22f2c3e449697343216675,#malware,https://twitter.com/HeliosCert/status/1435637814125899782
