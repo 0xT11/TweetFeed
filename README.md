@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 13:28:31 (UTC)</th>
+		<th colspan=4>2021-09-08 13:29:34 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 232 | 1957 | 7995 | 8043 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
-| **:triangular_flag_on_post: IPs** | 150 | 1371 | 5018 | 5044 |
+| **:triangular_flag_on_post: IPs** | 151 | 1372 | 5019 | 5045 |
 | **:1234: SHA256** | 239 | 776 | 2421 | 2427 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
@@ -109,7 +109,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 28 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 25 |
 | **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
-| **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 11 |
+| **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 12 |
 | **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 9 |
 | **#10** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
 
