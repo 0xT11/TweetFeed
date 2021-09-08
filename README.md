@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 14:03:14 (UTC)</th>
+		<th colspan=4>2021-09-08 14:04:17 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 233 | 1958 | 7996 | 8044 |
 | **:globe_with_meridians: Domains** | 18 | 288 | 782 | 783 |
-| **:triangular_flag_on_post: IPs** | 172 | 1393 | 5040 | 5066 |
+| **:triangular_flag_on_post: IPs** | 175 | 1396 | 5043 | 5069 |
 | **:1234: SHA256** | 242 | 779 | 2424 | 2430 |
 | **:1234: MD5** | 2 | 47 | 261 | 261 |
 
@@ -91,7 +91,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
 | **#CobaltStrike** | 66 | 509 | 1023 | 1023 |
-| **#Dridex** | 204 | 305 | 359 | 359 |
+| **#Dridex** | 207 | 308 | 362 | 362 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
 | **#ProxyShell** | 0 | 7 | 36 | 36 |
@@ -110,8 +110,8 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#6** | [secbird1](https://twitter.com/secbird1) | 25 |
 | **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
 | **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 12 |
-| **#9** | [illegalFawn](https://twitter.com/illegalFawn) | 9 |
-| **#10** | [pingineer_jp](https://twitter.com/pingineer_jp) | 8 |
+| **#9** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 9 |
+| **#10** | [illegalFawn](https://twitter.com/illegalFawn) | 9 |
 
 ## How it works?
 Search tweets that contain certain tags **or** that are posted by certain *infosec* people.
