@@ -16645,3 +16645,5 @@
 2021-09-08 15:03:31,ecarlesi,url,https://365online-webhelp.com/,#phishing,https://twitter.com/ecarlesi/status/1435619817210454018
 2021-09-08 15:09:03,MalwarePatrol,url,http://join.everydoggy.com/,#phishing,https://twitter.com/MalwarePatrol/status/1435621209874567168
 2021-09-08 15:13:47,ecarlesi,url,https://365online-webhelp.com/login.php,#phishing,https://twitter.com/ecarlesi/status/1435622399723118597
+2021-09-08 15:15:02,HeliosCert,ip,186.93.169.35,#malware,https://twitter.com/HeliosCert/status/1435622716099506180
+2021-09-08 15:15:02,HeliosCert,sha256,6f2c7fc88a5d601aedb8507c47d0cdbded46a8359987888bf6bc3b162a2ed483,#malware,https://twitter.com/HeliosCert/status/1435622716099506180
