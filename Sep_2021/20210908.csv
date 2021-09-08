@@ -696,3 +696,7 @@
 2021-09-08 14:20:02,HeliosCert,ip,37.111.230.1,#malware,https://twitter.com/HeliosCert/status/1435608875143663620
 2021-09-08 14:20:02,HeliosCert,sha256,8cfba3074ee87a6a1586ed985ba5a46b9d31cba56af1650a97fe53a03ca00958,#malware,https://twitter.com/HeliosCert/status/1435608875143663620
 2021-09-08 14:21:32,ecarlesi,url,http://tawcruise.com/sydney.1.79.zip,#phishing,https://twitter.com/ecarlesi/status/1435609251720925186
+2021-09-08 14:22:52,RedBeardIOCs,sha256,633087d0474ff7dd8a71be47edad0ae12af8ac9fff39721c41e1de31b0f41f1e,#AgentTesla,https://twitter.com/RedBeardIOCs/status/1435609587391029257
+2021-09-08 14:22:52,RedBeardIOCs,sha256,0343b4f0389f5a796436d1fb970f257569a506a7a9b1f8ebb994e575ebf44786,#AgentTesla,https://twitter.com/RedBeardIOCs/status/1435609587391029257
+2021-09-08 14:22:52,RedBeardIOCs,sha256,191c8078bd25ef90fd6f3da8c2a35ea1aa3b26fdf873c9cd2800d7179b7d6afc,#AgentTesla,https://twitter.com/RedBeardIOCs/status/1435609587391029257
+2021-09-08 14:22:52,RedBeardIOCs,sha256,8b4192fb297ab8f648b3648cecd334228606818a0fea00de93de5d31d1ab5ed5,#AgentTesla,https://twitter.com/RedBeardIOCs/status/1435609587391029257
