@@ -4428,6 +4428,9 @@
 2021-09-08 12:58:43,moshsrv,url,https://teamakayser.ca/tax/pt/pago/#,#phishing #scam,https://twitter.com/moshsrv/status/1435588411860168709
 2021-09-08 13:06:37,AvastThreatLabs,sha256,0191114a1ad51d073bd2084d21f70d71f2ae748a790455c4a708915ad7533d2d,#Ursnif,https://twitter.com/AvastThreatLabs/status/1435590397871353857
 2021-09-08 13:08:03,illegalFawn,url,https://havanaturbahamas.com/serviec-n26-enligne/n26_fr-m3tri-withcurlnoantibots/n26_fr-m3tri,#phishing,https://twitter.com/illegalFawn/status/1435590756757131264
+2021-09-08 13:08:47,imohanasundaram,md5,1d2094ce85d66878ee079185e2761beb,#malware,https://twitter.com/imohanasundaram/status/1435590941751062532
+2021-09-08 13:08:47,imohanasundaram,md5,d1837399df37757e5ebd04f45746301a,#malware,https://twitter.com/imohanasundaram/status/1435590941751062532
+2021-09-08 13:08:47,imohanasundaram,md5,265be11d746a90d8b6a6f9eda1d31fb7,#malware,https://twitter.com/imohanasundaram/status/1435590941751062532
 2021-09-08 13:19:44,JAMESWT_MHT,url,https://omshad-links.com/wp-admin/maint/,#phishing,https://twitter.com/JAMESWT_MHT/status/1435593699560415234
 2021-09-08 13:19:44,JAMESWT_MHT,url,https://tuggeranongarchery.com/servizi.allianzbank.it/gestisci/,#phishing,https://twitter.com/JAMESWT_MHT/status/1435593699560415234
 2021-09-08 13:19:44,JAMESWT_MHT,ip,208.113.165.8,#phishing,https://twitter.com/JAMESWT_MHT/status/1435593699560415234
@@ -4507,3 +4510,9 @@
 2021-09-08 14:52:14,secbird1,url,https://nrutbzbckqqvxuhcnkafhfkvnsbfxufpqzysybnu.cqenix.shop/login.php,#phishing,https://twitter.com/secbird1/status/1435616977360285699
 2021-09-08 14:56:22,secbird1,url,https://smbc.co.ip.uvokvd.shop/,#phishing,https://twitter.com/secbird1/status/1435618018193641474
 2021-09-08 14:57:57,ecarlesi,url,http://365online-webhelp.com/,#phishing,https://twitter.com/ecarlesi/status/1435618416212201480
+2021-09-08 14:58:59,drb_ra,ip,43.129.88.120,#CobaltStrike,https://twitter.com/drb_ra/status/1435618677051830274
+2021-09-08 14:59:05,drb_ra,ip,192.154.224.52,#CobaltStrike,https://twitter.com/drb_ra/status/1435618701517152261
+2021-09-08 14:59:12,drb_ra,ip,89.163.145.54,#CobaltStrike,https://twitter.com/drb_ra/status/1435618729400971265
+2021-09-08 14:59:17,drb_ra,ip,1.13.23.121,#CobaltStrike,https://twitter.com/drb_ra/status/1435618753212030977
+2021-09-08 14:59:24,drb_ra,ip,42.193.119.4,#CobaltStrike,https://twitter.com/drb_ra/status/1435618779250237447
+2021-09-08 14:59:29,drb_ra,ip,40.83.118.88,#CobaltStrike,https://twitter.com/drb_ra/status/1435618800041439232

@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 14:59:02 (UTC)</th>
+		<th colspan=4>2021-09-08 15:00:06 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,9 +74,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 252 | 1977 | 8015 | 8063 |
 | **:globe_with_meridians: Domains** | 19 | 289 | 781 | 782 |
-| **:triangular_flag_on_post: IPs** | 183 | 1404 | 5051 | 5077 |
+| **:triangular_flag_on_post: IPs** | 189 | 1410 | 5057 | 5083 |
 | **:1234: SHA256** | 255 | 792 | 2437 | 2443 |
-| **:1234: MD5** | 2 | 47 | 261 | 261 |
+| **:1234: MD5** | 5 | 50 | 264 | 264 |
 
 #### Tags
 
@@ -84,13 +84,13 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 325 | 2616 | 10584 | 10644 |
 | **#scam** | 19 | 359 | 1122 | 1127 |
-| **#malware** | 48 | 528 | 2503 | 2515 |
+| **#malware** | 51 | 531 | 2506 | 2518 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 20 | 175 | 630 | 630 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 66 | 509 | 1021 | 1021 |
+| **#CobaltStrike** | 72 | 515 | 1027 | 1027 |
 | **#Dridex** | 211 | 312 | 366 | 366 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
@@ -105,7 +105,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 228 |
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 119 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 65 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 71 |
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 38 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 31 |
 | **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 29 |
