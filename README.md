@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 13:50:35 (UTC)</th>
+		<th colspan=4>2021-09-08 13:51:37 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,10 +72,10 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 232 | 1957 | 7995 | 8043 |
+| **:link: URLs** | 233 | 1958 | 7996 | 8044 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
 | **:triangular_flag_on_post: IPs** | 152 | 1373 | 5020 | 5046 |
-| **:1234: SHA256** | 240 | 777 | 2422 | 2428 |
+| **:1234: SHA256** | 241 | 778 | 2423 | 2429 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
 #### Tags
