@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 14:35:53 (UTC)</th>
+		<th colspan=4>2021-09-08 14:36:56 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,9 +72,9 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 243 | 1968 | 8006 | 8054 |
+| **:link: URLs** | 245 | 1970 | 8008 | 8056 |
 | **:globe_with_meridians: Domains** | 18 | 288 | 780 | 781 |
-| **:triangular_flag_on_post: IPs** | 179 | 1400 | 5047 | 5073 |
+| **:triangular_flag_on_post: IPs** | 180 | 1401 | 5048 | 5074 |
 | **:1234: SHA256** | 253 | 790 | 2435 | 2441 |
 | **:1234: MD5** | 2 | 47 | 261 | 261 |
 
@@ -82,7 +82,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | Tag | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **#phishing** | 316 | 2607 | 10575 | 10635 |
+| **#phishing** | 319 | 2610 | 10578 | 10638 |
 | **#scam** | 17 | 357 | 1120 | 1125 |
 | **#malware** | 46 | 526 | 2501 | 2513 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
@@ -108,7 +108,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#4** | [drb_ra](https://twitter.com/drb_ra) | 65 |
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 36 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 29 |
-| **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 26 |
+| **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 29 |
 | **#8** | [malwrhunterteam](https://twitter.com/malwrhunterteam) | 12 |
 | **#9** | [JAMESWT_MHT](https://twitter.com/JAMESWT_MHT) | 9 |
 | **#10** | [illegalFawn](https://twitter.com/illegalFawn) | 9 |
