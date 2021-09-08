@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 16:11:35 (UTC)</th>
+		<th colspan=4>2021-09-08 16:12:38 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 267 | 1992 | 8030 | 8078 |
 | **:globe_with_meridians: Domains** | 19 | 289 | 781 | 782 |
-| **:triangular_flag_on_post: IPs** | 206 | 1428 | 5075 | 5101 |
+| **:triangular_flag_on_post: IPs** | 207 | 1429 | 5076 | 5102 |
 | **:1234: SHA256** | 261 | 798 | 2443 | 2449 |
 | **:1234: MD5** | 7 | 52 | 266 | 266 |
 
@@ -94,7 +94,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#Dridex** | 218 | 319 | 373 | 373 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
-| **#ProxyShell** | 0 | 7 | 36 | 36 |
+| **#ProxyShell** | 1 | 8 | 37 | 37 |
 | **#Trickbot** | 0 | 3 | 21 | 21 |
 | **#Ursnif** | 1 | 15 | 58 | 58 |
 
