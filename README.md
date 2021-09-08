@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 13:06:26 (UTC)</th>
+		<th colspan=4>2021-09-08 13:07:29 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -75,7 +75,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **:link: URLs** | 229 | 1954 | 7992 | 8040 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
 | **:triangular_flag_on_post: IPs** | 149 | 1370 | 5017 | 5043 |
-| **:1234: SHA256** | 238 | 775 | 2420 | 2426 |
+| **:1234: SHA256** | 239 | 776 | 2421 | 2427 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
 #### Tags
@@ -96,7 +96,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#Lokibot** | 0 | 24 | 109 | 109 |
 | **#ProxyShell** | 0 | 7 | 36 | 36 |
 | **#Trickbot** | 0 | 3 | 21 | 21 |
-| **#Ursnif** | 0 | 14 | 57 | 57 |
+| **#Ursnif** | 1 | 15 | 58 | 58 |
 
 #### Top reporters (today)
 
