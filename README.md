@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 13:52:41 (UTC)</th>
+		<th colspan=4>2021-09-08 13:53:44 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -74,7 +74,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **:link: URLs** | 233 | 1958 | 7996 | 8044 |
 | **:globe_with_meridians: Domains** | 13 | 283 | 777 | 778 |
-| **:triangular_flag_on_post: IPs** | 162 | 1383 | 5030 | 5056 |
+| **:triangular_flag_on_post: IPs** | 166 | 1387 | 5034 | 5060 |
 | **:1234: SHA256** | 241 | 778 | 2423 | 2429 |
 | **:1234: MD5** | 1 | 46 | 260 | 260 |
 
@@ -90,7 +90,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#AgentTesla** | 16 | 171 | 626 | 626 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 58 | 501 | 1015 | 1015 |
+| **#CobaltStrike** | 62 | 505 | 1019 | 1019 |
 | **#Dridex** | 204 | 305 | 359 | 359 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
@@ -105,7 +105,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | **#1** | [RedBeardIOCs](https://twitter.com/RedBeardIOCs) | 220 |
 | **#2** | [ecarlesi](https://twitter.com/ecarlesi) | 112 |
 | **#3** | [romonlyht](https://twitter.com/romonlyht) | 91 |
-| **#4** | [drb_ra](https://twitter.com/drb_ra) | 57 |
+| **#4** | [drb_ra](https://twitter.com/drb_ra) | 61 |
 | **#5** | [HeliosCert](https://twitter.com/HeliosCert) | 30 |
 | **#6** | [secbird1](https://twitter.com/secbird1) | 25 |
 | **#7** | [KesaGataMe0](https://twitter.com/KesaGataMe0) | 23 |
