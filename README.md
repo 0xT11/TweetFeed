@@ -22,7 +22,7 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
     </thead>
     <tbody>
 	<tr>
-		<th colspan=4>2021-09-08 15:52:39 (UTC)</th>
+		<th colspan=4>2021-09-08 15:53:42 (UTC)</th>
 	</tr>
         <tr>
             <td>:clipboard: <a href="https://github.com/0xDanielLopez/TweetFeed/blob/master/today.csv">Today</a> (<a href="https://raw.githubusercontent.com/0xDanielLopez/TweetFeed/master/today.csv">raw</a>)</td>
@@ -72,11 +72,11 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 
 | IOC | Today | Week | Month | Year |
 | :--- | :---: | :---: | :---: | :---: |
-| **:link: URLs** | 258 | 1983 | 8021 | 8069 |
+| **:link: URLs** | 259 | 1984 | 8022 | 8070 |
 | **:globe_with_meridians: Domains** | 19 | 289 | 781 | 782 |
 | **:triangular_flag_on_post: IPs** | 204 | 1426 | 5073 | 5099 |
 | **:1234: SHA256** | 260 | 797 | 2442 | 2448 |
-| **:1234: MD5** | 6 | 51 | 265 | 265 |
+| **:1234: MD5** | 7 | 52 | 266 | 266 |
 
 #### Tags
 
@@ -84,13 +84,13 @@ Collecting Indicators Of Compromise (IOCs) posted on Twitter in order to search 
 | :--- | :---: | :---: | :---: | :---: |
 | **#phishing** | 329 | 2621 | 10589 | 10649 |
 | **#scam** | 19 | 359 | 1122 | 1127 |
-| **#malware** | 57 | 537 | 2512 | 2524 |
+| **#malware** | 59 | 539 | 2514 | 2526 |
 | **#ransomware** | 1 | 11 | 94 | 94 |
 | **#banker** | 0 | 0 | 0 | 0 |
 | **#AgentTesla** | 24 | 179 | 634 | 634 |
 | **#Alienbot** | 0 | 15 | 72 | 72 |
 | **#BazarLoader** | 0 | 19 | 40 | 40 |
-| **#CobaltStrike** | 76 | 519 | 1031 | 1031 |
+| **#CobaltStrike** | 78 | 521 | 1033 | 1033 |
 | **#Dridex** | 218 | 319 | 373 | 373 |
 | **#FluBot** | 0 | 4 | 5 | 5 |
 | **#Lokibot** | 0 | 24 | 109 | 109 |
